@@ -1,2 +1,3 @@
-# project
-belajar bersama
+Collaborator:
+- Nama : Nazwa
+- Nim  : 1923
